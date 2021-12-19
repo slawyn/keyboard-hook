@@ -1,0 +1,5 @@
+﻿  hook.cpp
+C:\Users\Unixt\source\repos\FrameCounter\FrameCounter\hook.cpp(71,22): error C2365: 'SetupHook': redefinition; previous definition was 'typedef'
+C:\Users\Unixt\source\repos\FrameCounter\FrameCounter\hookdll.hpp(14): message : see declaration of 'SetupHook'
+C:\Users\Unixt\source\repos\FrameCounter\FrameCounter\hook.cpp(109,22): error C2365: 'UninstallHook': redefinition; previous definition was 'typedef'
+C:\Users\Unixt\source\repos\FrameCounter\FrameCounter\hookdll.hpp(15): message : see declaration of 'UninstallHook'
